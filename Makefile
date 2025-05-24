@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -std=c99
 
-EXPR = a = 4 / 2 * 3 + 2 
+EXPR = a = 4 / 2 * 3 
 
 all: compilador executor
 
